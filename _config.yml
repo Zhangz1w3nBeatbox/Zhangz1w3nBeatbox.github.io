@@ -26,13 +26,13 @@ title: zhangz1w3nCode                         # the main title
 tagline: You can do all things!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-             
+
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: Zhangz1w3nBeatbox             # change to your github username
+  username: zhangz1w3nCode             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Zhangz1w3nBeatbox
+  name: zhangz1w3nCode
   email: 403592973@qq.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
